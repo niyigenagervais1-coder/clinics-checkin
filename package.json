@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -r https://github.com/niyigenagervais1-coder/clinics-checkin.git"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
