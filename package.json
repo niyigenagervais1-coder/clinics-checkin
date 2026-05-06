@@ -2,7 +2,7 @@
   "name": "clinic-checkin",
   "version": "1.0.0",
   "description": "Digital Patient Check-in System",
-  "homepage": "https://[USERNAME].github.io/clinic-checkin",
+  "homepage": "https://niyigenagervais1-coder.github.io/clinic-project",
   "main": "src/main.js",
   "scripts": {
     "dev": "vite",
